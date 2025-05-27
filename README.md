@@ -1,4 +1,4 @@
-# AIML-Internship-Task2-EDA
+# AIML-Internship-Task 2-EDA
 Task 2: Exploratory Data Analysis (EDA)
 
 Overview
