@@ -14,61 +14,54 @@ Explore relationships between features.
 Prepare the data for subsequent machine learning tasks.
 
 Dataset
-Source: [Describe the origin or link to the dataset]
-
-Description: [Briefly describe what the dataset contains, e.g., passenger information, features, and target variable.]
+Source: Titanic-Dataset.csv
 
 Tools and Libraries Used
+
 Python
-
 Pandas
-
 NumPy
-
 Matplotlib
-
 Seaborn
-
 Plotly
-
 Jupyter Notebook
 
-EDA Steps Performed
-Data Loading and Inspection
+EDA Steps Performed:
+
+a) Data Loading and Inspection
 
 Loaded the dataset and checked its structure and types.
-
 Identified missing values and data quality issues.
 
-Summary Statistics
+b) Summary Statistics
 
 Calculated mean, median, standard deviation, and other descriptive statistics for numeric features.
 
-Univariate Analysis
+c) Univariate Analysis
 
 Plotted histograms and boxplots to understand the distribution of individual features.
-
 Analyzed categorical variables using bar charts and count plots.
 
-Bivariate and Multivariate Analysis
+d) Bivariate and Multivariate Analysis
 
 Used pairplots and correlation matrices to explore relationships between features.
-
 Created scatter plots to visualize feature interactions and groupings.
 
-Pattern, Trend, and Anomaly Detection
+e) Pattern, Trend, and Anomaly Detection
 
 Identified key relationships (e.g., between class and fare, SibSp and age).
-
 Spotted outliers and unusual data points.
 
-Feature-Level Inferences
+f) Feature-Level Inferences
 
 Made basic inferences about the importance and behavior of individual features.
 
-Key Insights
+Key Insights: 
+
 Discovered strong and weak relationships between certain features.
-
 Noted imbalances and outliers in the data.
-
 Gained a clear understanding of the data’s structure, which will inform the next steps.
+
+References or Material : 
+
+https://www.perplexity.ai/search/apache-spark-is-a-complete-too-LrBlZQevTzqvWhMH4KUssg
